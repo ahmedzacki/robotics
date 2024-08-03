@@ -27,6 +27,6 @@ The robot is equipped to navigate to multiple predefined locations in a sequence
 - `PID Wall Follower`: Implements a PID controller for wall-following behavior, allowing the robot to navigate smoothly along the walls.
 - `Robot Control (Servo Control with US Sensor)`: Utilizes a servo and ultrasonic sensor to perform tasks that require angular positioning.
 
-<img width="1200" alt="Screen Shot 2024-08-03 at 2 29 48 PM" src="https://github.com/user-attachments/assets/01d45ae1-e042-4ab6-9ee2-50c1300a329f">
-<img width="1200" alt="Screen Shot 2024-08-03 at 2 27 43 PM" src="https://github.com/user-attachments/assets/9392a39d-e2d9-4d1d-9c3c-e6b7d0cdf91b">
+<img width="1000" height="800" alt="Screen Shot 2024-08-03 at 2 29 48 PM" src="https://github.com/user-attachments/assets/01d45ae1-e042-4ab6-9ee2-50c1300a329f">
+<img width="1000" height="800" alt="Screen Shot 2024-08-03 at 2 27 43 PM" src="https://github.com/user-attachments/assets/9392a39d-e2d9-4d1d-9c3c-e6b7d0cdf91b">
 
