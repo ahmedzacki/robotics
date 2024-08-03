@@ -24,7 +24,7 @@ The robot is equipped to navigate to multiple predefined locations in a sequence
 Overall, the project aims to develop a foundational robotics platform that can be adapted and extended for various practical applications, ranging from automated surveillance to interactive tasks in dynamic settings.
 
 ## Project Structure
-- `Final Code`: Contains the complete, integrated code combining all aspects of the robotics functionalities developed in previous labs.
+- `Final Code`: Contains the complete, integrated code combining all aspects of the robotics functionalities.
 - `Localization`: Focuses on robotic localization techniques using sensor data to determine the robot's position in a 2D space.
 - `Locomotion & Manipulation`: Covers the fundamentals of robot movement and interaction with objects, including detailed motor and servo control.
 - `PID Wall Follower`: Implements a PID controller for wall-following behavior, allowing the robot to navigate smoothly along the walls.
