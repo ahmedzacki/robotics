@@ -1,8 +1,29 @@
 # Robotics Project
 
-This project encompasses a series of developments in robotics control systems, utilizing a combination of sensors, actuators, and algorithms to achieve sophisticated robotic behaviors. The project is structured around several key functionalities including motor speed control, sensor integration, and dynamic interaction with the environment. Each folder in this repository corresponds to a specific aspect of robotic control, reflecting progressive enhancements and capabilities.
+## Overview
+The general purpose of this robotics project is to develop a versatile autonomous robot capable of navigating and interacting with its environment using a combination of sensors and actuators. The project is structured to achieve multiple functionalities, each enhancing the robot's capabilities to perform effectively in various settings.
 
-## Folders:
+## Primary Goals
+
+### Locomotion and Navigation
+Enabling the robot to move precisely and smoothly in predefined patterns, both forwards and backwards, and to stop at exact distances. This involves controlling motor speeds and integrating sensor data to manage dynamics and ensure graceful movement.
+
+### Sensor Integration and Perception
+Utilizing various sensors, such as ultrasonic sensors, to gather information about the robot's surroundings. This data helps the robot make decisions about movement, detect obstacles, and maintain a specific distance from walls, enhancing its ability to navigate complex environments.
+
+### Dynamic Interaction
+Implementing algorithms that allow the robot to react to its environment in real-time. This includes following walls using a PID controller to adjust its path based on continuous sensor feedback, and modifying its behavior based on the proximity and location of nearby objects.
+
+### Task-Specific Functionality
+Programming the robot to perform specific tasks, such as using a servo-controlled ultrasonic sensor to scan its environment at multiple angles. This functionality is crucial for tasks that require detailed spatial awareness and precise positioning.
+
+### Goal-Oriented Movements
+The robot is equipped to navigate to multiple predefined locations in a sequence using coordinate-based localization techniques. This capability is fundamental for applications where the robot needs to perform tasks at various points within an environment, such as material transport or surveying areas.
+
+## Conclusion
+Overall, the project aims to develop a foundational robotics platform that can be adapted and extended for various practical applications, ranging from automated surveillance to interactive tasks in dynamic settings.
+
+## Project Structure
 - `Final Code`: Contains the complete, integrated code combining all aspects of the robotics functionalities developed in previous labs.
 - `Localization`: Focuses on robotic localization techniques using sensor data to determine the robot's position in a 2D space.
 - `Locomotion & Manipulation`: Covers the fundamentals of robot movement and interaction with objects, including detailed motor and servo control.
