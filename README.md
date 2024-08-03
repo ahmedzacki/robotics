@@ -20,9 +20,6 @@ Programming the robot to perform specific tasks, such as using a servo-controlle
 ### Goal-Oriented Movements
 The robot is equipped to navigate to multiple predefined locations in a sequence using coordinate-based localization techniques. This capability is fundamental for applications where the robot needs to perform tasks at various points within an environment, such as material transport or surveying areas.
 
-## Conclusion
-Overall, the project aims to develop a foundational robotics platform that can be adapted and extended for various practical applications, ranging from automated surveillance to interactive tasks in dynamic settings.
-
 ## Project Structure
 - `Final Code`: Contains the complete, integrated code combining all aspects of the robotics functionalities.
 - `Localization`: Focuses on robotic localization techniques using sensor data to determine the robot's position in a 2D space.
