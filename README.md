@@ -1,7 +1,7 @@
 # Robotics Project
 
 ## Overview
-The general purpose of this robotics project is to develop a versatile autonomous robot capable of navigating and interacting with its environment using a combination of sensors and actuators. The project is structured to achieve multiple functionalities, each enhancing the robot's capabilities to perform effectively in various settings.
+The general purpose of this robotics project is to develop a versatile autonomous robot capable of navigating and interacting with its environment using a combination of sensors and actuators using Pololu 3pi+ 32U4 OLED robot, a high-performance robot based on the Arduino-compatible ATmega32U4 MCU. The project is structured to achieve multiple functionalities, each enhancing the robot's capabilities to perform effectively in various settings.
 
 ## Primary Goals
 
